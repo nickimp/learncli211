@@ -6,7 +6,7 @@
 
 int main() {
 
-    printf("Hello,  world.\n");
+    printf("Hello, world.\n");
     printf("Welcome to C!\n");
     return EXIT_SUCCESS;
 
